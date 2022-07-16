@@ -1,0 +1,10 @@
+{
+  "name": "firenodes-frontend",
+  "version": "0.0.1",
+  "devDependencies": {
+    "bun-types": "^0.1.4"
+  },
+  "dependencies": {
+    "preact": "^10.10.0"
+  }
+}

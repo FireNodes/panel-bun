@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext"],
+    "module": "esnext",
+    "moduleResolution": "node",
+    "target": "esnext",
+    "jsxImportSource": "preact",
+    "jsxFactory": "h",
+    "jsxFragmentFactory": "Fragment",
+    "jsx": "preserve",
+    "types": ["bun-types"]
+  }
+}

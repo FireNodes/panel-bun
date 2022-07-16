@@ -1,0 +1,12 @@
+{
+  "name": "firenodes-backend",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "devDependencies": {
+    "bun-types": "^0.1.4"
+  },
+  "dependencies": {
+    "hono": "^2.0.0"
+  }
+}
